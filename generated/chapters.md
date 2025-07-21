@@ -1,36 +1,36 @@
-### Chapter 1: Chapter One: The Role Reversal
-Aarav is initially disappointed to not get the lead role in the school play, but learns to embrace his new role as narrator with the help of his friends.
+### Chapter 1: : The Role of a Lifetime
+Aarav is excited to be the play narrator until he learns Anaya got a bigger role, leading to a rollercoaster of emotions.
 
-### Chapter 2: Chapter Two: The Green-Eyed Monster
-Aarav struggles with jealousy when he sees Anaya excelling in her role, but learns to appreciate her talents and support her.
+### Chapter 2: : The Green-Eyed Monster
+Aarav struggles with jealousy over Anaya's success, but learns to navigate his feelings with the help of Grandpa Dev.
 
-### Chapter 3: Chapter Three: The Calming Storm
-Aarav's emotions get the best of him during a stressful rehearsal, but Grandpa Dev teaches him techniques to calm his mind and focus.
+### Chapter 3: : The Friendship Test
+Aarav's jealousy threatens his friendship with Anaya, forcing him to confront his emotions and apologize.
 
-### Chapter 4: Chapter Four: The Mirror of Emotions
-Aarav discovers the power of self-reflection and learns to identify and express his own feelings in a healthy way.
+### Chapter 4: : The Audition
+Aarav faces his fears and auditions for a bigger role in the school play, learning to embrace his vulnerabilities.
 
-### Chapter 5: Chapter Five: The Friendship Test
-Aarav and Karan have a falling out over a misunderstanding, but they work through their differences and strengthen their friendship.
+### Chapter 5: : The Big Day
+Aarav deals with performance anxiety before the play, but finds courage in his friends' support.
 
-### Chapter 6: Chapter Six: The Show Must Go On
-Aarav faces stage fright on the day of the play, but with the support of his friends and family, he finds the courage to perform.
+### Chapter 6: : The Post-Performance Blues
+Aarav experiences a mix of emotions after the play, including pride, sadness, and relief.
 
-### Chapter 7: Chapter Seven: The Joy of Success
-Aarav experiences the thrill of a successful performance and learns to celebrate his accomplishments with humility.
+### Chapter 7: : The Family Secret
+Aarav discovers a family secret that challenges his understanding of emotions and self-awareness.
 
-### Chapter 8: Chapter Eight: The Weight of Expectations
-Aarav feels pressure to excel in his studies, but learns that it's okay to ask for help and take breaks when needed.
+### Chapter 8: : The Art of Listening
+Aarav learns the importance of listening to others' feelings and perspectives, deepening his emotional intelligence.
 
-### Chapter 9: Chapter Nine: The Comfort of Home
-Aarav finds solace in spending time with his family and realizes the importance of a supportive home environment.
+### Chapter 9: : The Forgiveness Game
+Aarav struggles to forgive Karan for a mistake, but eventually learns the power of forgiveness in healing relationships.
 
-### Chapter 10: Chapter Ten: The Power of Empathy
-Aarav learns to empathize with others and recognize that everyone has their own struggles and emotions to navigate.
+### Chapter 10: : The Heartfelt Letter
+Aarav writes a heartfelt letter to Anaya, expressing his gratitude for her friendship and support.
 
-### Chapter 11: Chapter Eleven: The Art of Forgiveness
-Aarav reflects on past conflicts and learns the value of forgiveness, both towards others and himself.
+### Chapter 11: : The Wisdom of Grandpa Dev
+Aarav seeks Grandpa Dev's advice on handling big emotions, leading to a heart-to-heart conversation about emotional resilience.
 
-### Chapter 12: Chapter Twelve: The Journey Continues
-Aarav embraces the ups and downs of life's emotional rollercoaster, knowing that he has the tools and support to handle whatever comes his way.
+### Chapter 12: : The Embrace of Change
+Aarav reflects on his journey of self-discovery and emotional growth, realizing that change is a natural part of life.
 
