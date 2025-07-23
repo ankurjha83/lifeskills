@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The Science Fair Disaster",
+    "setting": "Aarav's backyard with bubbling volcano projects",
+    "emotional_tone": "Frustrated",
+    "learning_or_struggle": "Aarav learns that sometimes experiments don't go as planned",
+    "word_count": "700",
+    "scene_number": 1
+  },
+  {
+    "title": "The Secret Hideout",
+    "setting": "Aarav's attic filled with dusty old boxes",
+    "emotional_tone": "Excited",
+    "learning_or_struggle": "Aarav discovers a hidden journal from his great-grandfather",
+    "word_count": "500",
+    "scene_number": 2
+  },
+  {
+    "title": "The Soccer Showdown",
+    "setting": "Neighborhood park with cheering spectators",
+    "emotional_tone": "Determined",
+    "learning_or_struggle": "Aarav learns the importance of teamwork during a close soccer match",
+    "word_count": "600",
+    "scene_number": 3
+  }
+]

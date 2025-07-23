@@ -1,0 +1,34 @@
+[
+  {
+    "title": "The Soccer Tryouts",
+    "setting": "A dusty soccer field with colorful graffiti on the walls",
+    "emotional_tone": "Determined",
+    "learning_or_struggle": "Aarav pushes himself during tryouts to show his skills",
+    "word_count": "700",
+    "scene_number": 1
+  },
+  {
+    "title": "The Library Showdown",
+    "setting": "The school library with old dusty books and a cozy reading nook",
+    "emotional_tone": "Frustrated",
+    "learning_or_struggle": "Aarav argues with his friend over a book they both want to borrow",
+    "word_count": "500",
+    "scene_number": 2
+  },
+  {
+    "title": "The Science Fair Disaster",
+    "setting": "The school gym filled with colorful science projects and bubbling potions",
+    "emotional_tone": "Embarrassed",
+    "learning_or_struggle": "Aarav's volcano project erupts early, causing a mess at the science fair",
+    "word_count": "600",
+    "scene_number": 3
+  },
+  {
+    "title": "The Friendship Pact",
+    "setting": "Aarav's backyard with a makeshift treehouse and a tire swing",
+    "emotional_tone": "Reassured",
+    "learning_or_struggle": "Aarav and his friends make a pact to always support each other, no matter what",
+    "word_count": "550",
+    "scene_number": 4
+  }
+]

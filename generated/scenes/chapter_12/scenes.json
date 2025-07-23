@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The Science Fair",
+    "setting": "School gymnasium filled with students' projects and colorful posters",
+    "emotional_tone": "Excited",
+    "learning_or_struggle": "Aarav feels excited as he presents his volcano experiment",
+    "word_count": "700",
+    "scene_number": 1
+  },
+  {
+    "title": "The Lunchroom Challenge",
+    "setting": "Crowded school cafeteria with lunch tables and noisy chatter",
+    "emotional_tone": "Nervous",
+    "learning_or_struggle": "Aarav feels nervous as he tries to finish the spicy food challenge",
+    "word_count": "500",
+    "scene_number": 2
+  },
+  {
+    "title": "The Field Trip Fiasco",
+    "setting": "Busy city zoo with animal exhibits and excited children",
+    "emotional_tone": "Curious",
+    "learning_or_struggle": "Aarav feels curious exploring the zoo but gets lost briefly",
+    "word_count": "600",
+    "scene_number": 3
+  }
+]

@@ -1,36 +1,36 @@
-### Chapter 1: Chapter 1: The Role Reversal
-Aarav is disappointed when he learns Anaya has a bigger role in the school play, leading to feelings of jealousy and insecurity.
+### Chapter 1: Chapter One: The Audition Anxiety
+Aarav feels a mix of excitement and nervousness as he auditions for the school play, only to find out that Anaya has landed a bigger role.
 
-### Chapter 2: Chapter 2: The Green-Eyed Monster
-Aarav struggles to deal with his jealousy towards Anaya, but with the help of his friends and Grandpa Dev, he learns to acknowledge and manage his emotions.
+### Chapter 2: Chapter Two: The Green-Eyed Monster
+Aarav struggles with jealousy towards Anaya, but learns to recognize and manage his emotions with the help of his friends.
 
-### Chapter 3: Chapter 3: The Big Audition
-Aarav faces his fears and auditions for a solo part in the school play, leading to a rollercoaster of emotions as he waits for the results.
+### Chapter 3: Chapter Three: The Wise Words of Grandpa Dev
+Grandpa Dev shares his wisdom with Aarav, teaching him the importance of self-awareness and empathy.
 
-### Chapter 4: Chapter 4: The Waiting Game
-Aarav learns the importance of patience and resilience as he waits anxiously to hear back about the audition results.
+### Chapter 4: Chapter Four: The Rollercoaster of Emotions
+Aarav experiences a range of emotions during rehearsals, from frustration to joy, as he navigates his role in the play.
 
-### Chapter 5: Chapter 5: The Unexpected Twist
-Aarav is surprised by the outcome of the auditions, leading to a mix of emotions including happiness, disappointment, and confusion.
+### Chapter 5: Chapter Five: The Power of Positive Self-Talk
+Aarav learns to use positive affirmations to boost his confidence and overcome self-doubt.
 
-### Chapter 6: Chapter 6: The Power of Positivity
-Aarav learns about the impact of positive thinking and gratitude as he navigates through his emotions and reactions to the unexpected twist.
+### Chapter 6: Chapter Six: The Friendship Test
+Aarav faces a conflict with his friend Karan, but learns the value of communication and compromise in resolving their differences.
 
-### Chapter 7: Chapter 7: The Friendship Test
-Aarav's friendship with Anaya is put to the test as they both deal with their own emotions and insecurities surrounding the school play.
+### Chapter 7: Chapter Seven: The Big Performance
+Aarav faces his fears and delivers a stellar performance in the school play, showcasing his growth in emotional intelligence.
 
-### Chapter 8: Chapter 8: The Heart-to-Heart
-Aarav and Anaya have a heart-to-heart conversation, where they both open up about their feelings and fears, strengthening their bond and understanding of each other.
+### Chapter 8: Chapter Eight: The Post-Show Blues
+Aarav struggles with a sense of emptiness after the play ends, but finds solace in reflecting on the memories and lessons learned.
 
-### Chapter 9: Chapter 9: The Wisdom of Grandpa Dev
-Grandpa Dev shares his wisdom and experiences with Aarav, teaching him valuable lessons about emotional intelligence and self-awareness.
+### Chapter 9: Chapter Nine: The Joy of Creativity
+Aarav discovers the therapeutic power of creative expression as he channels his emotions into writing and drawing.
 
-### Chapter 10: Chapter 10: The Final Rehearsal
-Aarav faces his final rehearsal for the school play, where he must put his newfound emotional skills to the test in order to deliver a stellar performance.
+### Chapter 10: Chapter Ten: The Family Feast
+Aarav's family comes together for a special celebration, where he learns to appreciate the support and love of his loved ones.
 
-### Chapter 11: Chapter 11: The Big Night
-Aarav experiences a mix of nerves, excitement, and pride as he takes the stage for the school play, showcasing his growth in handling his emotions.
+### Chapter 11: Chapter Eleven: The Healing Power of Laughter
+Aarav finds solace in humor and laughter during tough times, realizing the importance of positivity in handling emotions.
 
-### Chapter 12: Chapter 12: The Aftermath
-Aarav reflects on his journey of self-discovery and emotional growth throughout the school play, realizing the importance of embracing and expressing his big feelings.
+### Chapter 12: Chapter Twelve: The Everlasting Journey
+Aarav reflects on his emotional growth throughout the story, recognizing that handling emotions is a lifelong journey filled with ups and downs.
 

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The Soccer Match",
+    "setting": "Aarav's neighborhood park on a sunny Saturday morning",
+    "emotional_tone": "Excited",
+    "learning_or_struggle": "Aarav scores the winning goal for his team",
+    "word_count": "700",
+    "scene_number": 1
+  },
+  {
+    "title": "The Science Fair Disaster",
+    "setting": "Aarav's garage transformed into a makeshift lab",
+    "emotional_tone": "Frustrated",
+    "learning_or_struggle": "Aarav's volcano experiment explodes, making a mess",
+    "word_count": "500",
+    "scene_number": 2
+  },
+  {
+    "title": "The Mysterious Map",
+    "setting": "Aarav's grandfather's attic filled with dusty books and artifacts",
+    "emotional_tone": "Curious",
+    "learning_or_struggle": "Aarav discovers an old map leading to a hidden treasure",
+    "word_count": "600",
+    "scene_number": 3
+  }
+]

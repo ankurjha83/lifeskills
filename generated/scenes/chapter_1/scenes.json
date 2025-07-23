@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The Science Fair",
+    "setting": "School gymnasium filled with bubbling experiments and colorful displays",
+    "emotional_tone": "Excited",
+    "learning_or_struggle": "Aarav feels a surge of excitement as he presents his solar system project",
+    "word_count": "700",
+    "scene_number": 1
+  },
+  {
+    "title": "The Soccer Match",
+    "setting": "Dusty soccer field with cheering spectators and setting sun",
+    "emotional_tone": "Nervous",
+    "learning_or_struggle": "Aarav overcomes his nerves and scores the winning goal for his team",
+    "word_count": "650",
+    "scene_number": 2
+  },
+  {
+    "title": "The Birthday Party",
+    "setting": "Vibrant park with balloons and picnic tables",
+    "emotional_tone": "Happy",
+    "learning_or_struggle": "Aarav celebrates his friend's birthday with laughter and joy",
+    "word_count": "500",
+    "scene_number": 3
+  }
+]

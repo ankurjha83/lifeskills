@@ -1,0 +1,34 @@
+[
+  {
+    "title": "The Mysterious Map",
+    "setting": "Aarav's grandfather's dusty attic filled with old trunks",
+    "emotional_tone": "Curious",
+    "learning_or_struggle": "Aarav discovers a map that leads to a hidden treasure",
+    "word_count": "700",
+    "scene_number": 1
+  },
+  {
+    "title": "The Treasure Hunt Begins",
+    "setting": "Aarav's neighborhood park with towering trees and chirping birds",
+    "emotional_tone": "Excited",
+    "learning_or_struggle": "Aarav and his friends start following the map clues",
+    "word_count": "800",
+    "scene_number": 2
+  },
+  {
+    "title": "The Riddle of the Old Oak Tree",
+    "setting": "The shadowy grove near the old oak tree with twisted branches",
+    "emotional_tone": "Nervous",
+    "learning_or_struggle": "Aarav must solve a riddle to move forward on the treasure hunt",
+    "word_count": "600",
+    "scene_number": 3
+  },
+  {
+    "title": "The Hidden Cave",
+    "setting": "Aarav's town outskirts with moss-covered rocks and trickling stream",
+    "emotional_tone": "Hopeful",
+    "learning_or_struggle": "Aarav uncovers a hidden cave where the treasure might be hidden",
+    "word_count": "700",
+    "scene_number": 4
+  }
+]
